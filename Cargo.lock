@@ -5,3 +5,11 @@ version = 4
 [[package]]
 name = "p12"
 version = "0.1.0"
+
+[[package]]
+name = "p12_bin"
+version = "0.1.0"
+
+[[package]]
+name = "p12_lib"
+version = "0.1.0"
